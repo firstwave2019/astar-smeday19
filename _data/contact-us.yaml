@@ -9,8 +9,8 @@
 locations:
   # HQ Address [REQUIRED]
   - title:
-    address: 5 Maxwell Road<br>1st Storey Tower Block<br>MND Complex<br>Singapore 069110
-    find-directions: https://www.google.com.sg/maps/place/Board+of+Architects+(BOA)/@1.2793714,103.8439926,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1912b8578811:0x6b5e720d6eba45eb!8m2!3d1.2793714!4d103.8461813
+    address: 1 Fusionopolis Way<br>Unit 20-10 Connexis North Tower<br>Singapore 138632
+    find-directions: https://www.google.com/maps/place/A*STAR/@1.299244,103.7853751,17z/data=!4m8!1m2!2m1!1s1+Fusionopolis+Way,+%2320-10+Connexis+North+Tower,+Singapore+138632!3m4!1s0x31da1a4558434881:0x7316ee039b4741f!8m2!3d1.2996113!4d103.7877311
   # Operating Hours [OPTIONAL]
     operating-hours:
       - days: Mon - Thu
@@ -24,13 +24,13 @@ locations:
 column:
   - title: General Enquiries & Feedback
     content:
-    - line: +65 6222 5295
-    - line: boarch@singnet.com.sg (email)
+    - line: +65 6826 6111
+    - line: contact@a-star.edu.sg (email)
     # If you have an email, put (email) after the actual email
 
   - title: Fax
     content:
-    - line: +65 6222 4452
+    - line: +65 6826 6111
 
 # Image
 image-url:
